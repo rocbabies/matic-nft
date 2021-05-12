@@ -1,11 +1,11 @@
 {
-   "name": "Level 1",
+   "name": "Level 6",
    "description": "MATIC Token Test",
    "external_url": "https://gateway.pinata.cloud",
-   "image": "https://gateway.pinata.cloud/ipfs/QmaJFjqJdYLKEHd9a6EtN8XqNdpgMdHnUkzJH34CNzGeE9/1.gif",
+   "image": "https://gateway.pinata.cloud/ipfs/QmYHcbvdGLuMfJKFd2K4r4vTiYX8RBEoWnjbahh4Rhtywg/5.gif",
    "attributes": [
      {
-         "value": 1,
+         "value": 6,
          "trait_type": "level"
      }
    ]
