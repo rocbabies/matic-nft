@@ -1,0 +1,8 @@
+{
+  "name": "MATIC NFT Test 2",
+  "description": "Is this Markdown? This is test [I'm an inline-style link](https://www.google.com)",
+  "image": "https://gateway.pinata.cloud/ipfs/QmdX4apE3KhjD8uwU8TPanhnnij96tifbgpCM5rSYgbDZj",
+  "external_link": "https:/google.com",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xf57B0D5C887b26601EaaCD96eCaAc1CBD16eBF01"
+}
